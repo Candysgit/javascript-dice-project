@@ -1,0 +1,23 @@
+*{
+    background-color: #232931;
+}
+
+h1{
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    
+    font-size: 5rem;
+    color: #4ECCA3;
+    text-align: center;
+}
+
+.overall{
+    display: flex;
+    font-family: 'lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    justify-content: space-evenly;
+    color: #4ECCA3;
+  
+
+}
+
